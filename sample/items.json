@@ -1,0 +1,11 @@
+{
+  "group_error_code": "E_BAD_GROUP",
+  "step": 10,
+  "items": [
+    {"group": "alpha", "value": 1},
+    {"group": "beta", "value": 2},
+    {"group": "alpha", "value": 3},
+    {"group": "gamma", "value": 4},
+    {"group": "beta", "value": 5}
+  ]
+}
